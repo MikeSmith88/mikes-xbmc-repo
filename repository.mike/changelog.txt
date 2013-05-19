@@ -1,5 +1,0 @@
-[B]Version 1.0.1[/B]
-- Upgraded to unzipped model
-
-[B]Version 1.0.0[/B]
-- Initial version
