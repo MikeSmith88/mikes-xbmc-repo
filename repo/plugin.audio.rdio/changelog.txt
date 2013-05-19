@@ -1,3 +1,42 @@
+[B]Version 1.7.0[/B]
+- Use big icons for album art (thanks nmunson)
+- Portuguese (Brazil) translation (thanks iurifq)
+- Fixes for Rdio API changes
+
+[B]Version 1.6.0[/B]
+- Play "artist radio station"
+
+[B]Version 1.5.0[/B]
+- Add any track to an existing playlist
+- Remove track from one of your playlists
+
+[B]Version 1.4.0[/B]
+- Show sad face if track or album is not streamable (ie: due to regional licensing restrictions)
+- Subscribe to and unsubscribe from playlists (via context menu)
+- "Top Charts" menu - shows top albums, artists, playlists and songs on Rdio
+
+[B]Version 1.3.0[/B]
+- Link to show all albums for an artist
+- Album lists are sortable by album name, date and artist (when applicable)
+- Add song/album to collection
+- Remove song/album from collection
+- Search for playlist
+
+[B]Version 1.2.0[/B]
+- Browse new release albums
+- Browse heavy rotation albums in your network
+- "More from this artist" link whenever you browse an artist or track list from a particular artist
+- When selecting artist in your collection, show albums from that artist in your collection rather than tracks (only if there is more than one album)
+
+[B]Version 1.1.1[/B]
+- Bug authenticating after 1.1.0 upgrade
+
+[B]Version 1.1.0[/B]
+- View people in your network and play their albums, artists and playlists
+- Search for album/artist
+- Browse artist's top albums, top tracks and similar artists
+- Large album collections are paged to prevent timeouts
+
 [B]Version 1.0.0[/B]
 - Basic authentication and playback
 - List and play your own collection by artist
